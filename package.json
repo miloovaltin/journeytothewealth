@@ -1,0 +1,16 @@
+{
+"name": "journeytothewealth",
+"theme": "journey to the wealth",
+"version": "5.6.4",
+"description": "journey to the wealth สมัครเว็บไซต์คาสิโนเว็บตรง คนเล่นเยอะ รับเครดิตฟรี",
+"keywords": [
+"journey to the wealth",
+"journey to the wealth เครดิตฟรี",
+"journey to the wealth ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/journeytothewealth",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
